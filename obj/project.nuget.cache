@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7CdEi/WrApUAk+F1oGg1TiUpcgEbUmfSAjpawgIEK4iIR6O329w6SDkAbdlblbK+RjlodHT1YwDblkP0abF4KQ==",
+  "success": true,
+  "projectFilePath": "/home/qputo69/desarrollo/prollectos/prollecto_optativa1_dotnet_c#/api-para-optativa1/api-para-optativa1.csproj",
+  "expectedPackageFiles": [
+    "/home/qputo69/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/qputo69/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/qputo69/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/home/qputo69/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/home/qputo69/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/home/qputo69/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
