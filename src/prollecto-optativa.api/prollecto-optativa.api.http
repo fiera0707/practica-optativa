@@ -1,0 +1,6 @@
+@prollecto_optativa.api_HostAddress = http://localhost:5205
+
+GET {{prollecto_optativa.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
