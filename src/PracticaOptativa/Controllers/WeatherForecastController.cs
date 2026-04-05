@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace api_para_optativa1.Controllers;
+namespace PracticaOptativa.Controllers;
 
 [ApiController]
 [Route("[controller]")]

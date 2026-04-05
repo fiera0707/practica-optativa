@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7CdEi/WrApUAk+F1oGg1TiUpcgEbUmfSAjpawgIEK4iIR6O329w6SDkAbdlblbK+RjlodHT1YwDblkP0abF4KQ==",
+  "dgSpecHash": "OOpgfjTe5Ig1bKCa48f7Be5c1ybV6orXyxgXmlt01w82PZzKhJSc7j1CNd544woM1TXPy9X5cxo1L2By133ELg==",
   "success": true,
-  "projectFilePath": "/home/qputo69/desarrollo/prollectos/prollecto_optativa1_dotnet_c#/api-para-optativa1/api-para-optativa1.csproj",
+  "projectFilePath": "/home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/PracticaOptativa.csproj",
   "expectedPackageFiles": [
     "/home/qputo69/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/qputo69/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",

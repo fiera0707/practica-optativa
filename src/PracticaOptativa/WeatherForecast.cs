@@ -1,4 +1,4 @@
-namespace api_para_optativa1;
+namespace PracticaOptativa;
 
 public class WeatherForecast
 {
