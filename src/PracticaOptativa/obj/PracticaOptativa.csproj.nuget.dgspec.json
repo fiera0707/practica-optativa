@@ -38,6 +38,26 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.SemanticKernel": {
+              "target": "Package",
+              "version": "[1.74.0, )"
+            },
+            "Microsoft.SemanticKernel.Connectors.Ollama": {
+              "target": "Package",
+              "version": "[1.74.0-alpha, )"
+            },
+            "Microsoft.SemanticKernel.Connectors.Qdrant": {
+              "target": "Package",
+              "version": "[1.74.0-preview, )"
+            },
+            "Microsoft.SemanticKernel.connectors.openAI": {
+              "target": "Package",
+              "version": "[1.74.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
