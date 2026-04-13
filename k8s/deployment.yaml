@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: practica-api
+  name: practica-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: practica-api
+  strategy: {}
+  template:
+    metadata:
+      labels:
+        app: practica-api
+    spec:
+      containers:
+      - image: practica-optativa:latest
+        name: practica-optativa
+        resources: {}
+status: {}

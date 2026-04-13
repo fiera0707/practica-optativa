@@ -1,5 +1,5 @@
 #!/bin/bash
 
-dotnet publish src/ToyApi.Api -c Release -o publish
+dotnet publish src/PracticaOptativa -c Release -o publish
 
-docker build -t toy-api:latest -f docker/Dockerfile .
+docker build -t practica-optativa:latest -f docker/Dockerfile .
