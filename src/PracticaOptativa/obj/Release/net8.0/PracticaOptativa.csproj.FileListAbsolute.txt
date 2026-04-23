@@ -87,3 +87,8 @@
 /home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/obj/Release/net8.0/PracticaOptativa.pdb
 /home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/obj/Release/net8.0/PracticaOptativa.genruntimeconfig.cache
 /home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/obj/Release/net8.0/ref/PracticaOptativa.dll
+/home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/bin/Release/net8.0/publish/web.config
+/home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/bin/Release/net8.0/publish/appsettings.Development.json
+/home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/bin/Release/net8.0/publish/appsettings.json
+/home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/bin/Release/net8.0/publish/PracticaOptativa.deps.json
+/home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/bin/Release/net8.0/publish/PracticaOptativa.runtimeconfig.json

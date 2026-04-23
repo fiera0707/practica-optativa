@@ -1,0 +1,8 @@
+/home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/obj/Debug/net8.0/PracticaOptativa.csproj.AssemblyReference.cache
+/home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/obj/Debug/net8.0/PracticaOptativa.GeneratedMSBuildEditorConfig.editorconfig
+/home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/obj/Debug/net8.0/PracticaOptativa.AssemblyInfoInputs.cache
+/home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/obj/Debug/net8.0/PracticaOptativa.AssemblyInfo.cs
+/home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/obj/Debug/net8.0/PracticaOptativa.csproj.CoreCompileInputs.cache
+/home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/obj/Debug/net8.0/PracticaOptativa.MvcApplicationPartsAssemblyInfo.cs
+/home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/obj/Debug/net8.0/PracticaOptativa.MvcApplicationPartsAssemblyInfo.cache
+/home/qputo69/desarrollo/prollectos/practica-optativa/src/PracticaOptativa/obj/Debug/net8.0/PracticaOptativa.sourcelink.json

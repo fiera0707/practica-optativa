@@ -1,6 +1,11 @@
 /home/qputo69/desarrollo/prollectos/practica-optativa/publish/PracticaOptativa
+/home/qputo69/desarrollo/prollectos/practica-optativa/publish/publish/web.config
 /home/qputo69/desarrollo/prollectos/practica-optativa/publish/appsettings.Development.json
 /home/qputo69/desarrollo/prollectos/practica-optativa/publish/appsettings.json
+/home/qputo69/desarrollo/prollectos/practica-optativa/publish/publish/appsettings.Development.json
+/home/qputo69/desarrollo/prollectos/practica-optativa/publish/publish/appsettings.json
+/home/qputo69/desarrollo/prollectos/practica-optativa/publish/publish/PracticaOptativa.deps.json
+/home/qputo69/desarrollo/prollectos/practica-optativa/publish/publish/PracticaOptativa.runtimeconfig.json
 /home/qputo69/desarrollo/prollectos/practica-optativa/publish/PracticaOptativa.dll
 /home/qputo69/desarrollo/prollectos/practica-optativa/publish/PracticaOptativa.deps.json
 /home/qputo69/desarrollo/prollectos/practica-optativa/publish/PracticaOptativa.runtimeconfig.json

@@ -1,5 +1,6 @@
+
 #!/bin/bash
 
-dotnet publish src/PracticaOptativa -c Release -o publish
+dotnet publish src/practica-optativa -c Release -o publish
 
-docker build -t practica-optativa:latest -f docker/Dockerfile .
+docker build --no-cache -t practica-optativa:latest -f docker/Dockerfile .
