@@ -1,3 +1,7 @@
+using PracticaOptativa.Agents;
+using System.Threading.Tasks;
+
+namespace PracticaOptativa.Orchestration;
 public class AgentOrchestrator
 {
     private readonly CodingAgent _coding;
@@ -12,7 +16,7 @@ public class AgentOrchestrator
     public async Task<string> Execute(string input)
     {
         // 1. Generar código
-        var code = await _coding.GenerateCode(input);
+        var code = await _coding.GenerateCode(input, "csharp");
 
         // 2. Revisar código
         var reviewed = await _review.Review(code);

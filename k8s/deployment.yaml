@@ -1,22 +1,20 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  labels:
-    app: practica-api
-  name: practica-api
+  name:  practica-optativa
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: practica-api
-  strategy: {}
+      app:  practica-optativa
   template:
     metadata:
       labels:
-        app: practica-api
+        app:  practica-optativa
     spec:
       containers:
-      - image: practica-optativa:latest
-        name: practica-optativa
-        resources: {}
-status: {}
+      - name: practica-optativa
+        image:  practica-optativa:latest
+        imagePullPolicy: Never
+        ports:
+        - containerPort: 80

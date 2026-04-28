@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "A6/7p7H3Ao47tiZAOCcIj5d0+8HeWCQDhbImF41vWrA=",
+  "Hash": "Y7gD32ECLK9UG50RtrGeGOLNoWzIjRO2IgDM76uHRKo=",
   "Source": "PracticaOptativa",
   "BasePath": "_content/PracticaOptativa",
   "Mode": "Default",
-  "ManifestType": "Publish",
+  "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
